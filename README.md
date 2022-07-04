@@ -6,11 +6,11 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=pandyadeveloper&style=flat-square&color=blue" alt=""/>
-<h1>
+<h3>
   Hi there 👋
-</h1>
+</h3>
 </div>
-:man_technologist: About Me :
+## :man_technologist: About Me :
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
