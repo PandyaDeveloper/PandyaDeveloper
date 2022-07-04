@@ -10,7 +10,11 @@
   Hi there 👋
 </h3>
 </div>
+
 ## :man_technologist: About Me :
+<div>
+  
+</div>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
