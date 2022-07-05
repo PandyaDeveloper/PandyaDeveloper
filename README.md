@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pandyadeveloper&style=flat-square&color=blue" alt=""/>
 <h3>
   Hi there 👋
 </h3>
@@ -13,7 +12,13 @@
 
 ## :man_technologist: About Me :
 <div>
-  
+  - 🌱 I’m currently learning  Machine Learning, CD/CI (Git Actions) and Data Science Related.
+  <br>
+  - 📫 How to reach me: ...
+  <br>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pandyadeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -38,18 +43,16 @@
 <a href="https://github.com/PandyaDeveloper">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PandyaDeveloper&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="PandyaDeveloper's GitHub Stats" />
 </a>
-
+<img src="https://komarev.com/ghpvc/?username=pandyadeveloper&style=flat-square&color=blue" alt=""/>
 <!--
 **PandyaDeveloper/PandyaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
