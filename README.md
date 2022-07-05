@@ -14,11 +14,21 @@
 <div>
   - 🌱 I’m currently learning  Machine Learning, CD/CI (Git Actions) and Data Science Related.
   <br>
-  - 📫 How to reach me: ...
-  <br>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pandyadeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  - 📫 How to reach me:
+  <br>&ensp;
+  <a href="https://www.linkedin.com/in/pandyadeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=pandyadeveloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <br>
+  - 🔭 Work Experience:
+  <p algin="justify">
+    <ul>
+    <li>I have worked for X-Byte Technolabs Pvt. Ltd. as a Jr. Python Developer, where I have scraped multiple sites like Google Site(Google Maps, Google Search Result etc.), Food Delivery (Doordash, Zomato etc.), E-commerce (Amazon, Flipkart etc.) using the Scrapy/Request/Urllib Python Library and selenium for automation.</li>
+     <li>Managed Small Team Within Projects.</li>
+  </p>
 </div>
 
 ## :hammer_and_wrench: Languages and Tools :
